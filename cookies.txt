@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+noithatmansion.vn	TRUE	/	FALSE	1999999999	woocommerce_recently_viewed	712%7C468%7C1056%7C457%7C455%7C453%7C314%7C316
+
